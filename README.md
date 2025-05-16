@@ -43,7 +43,7 @@ It is designed to support classroom instruction in:
 
 ## 🚀 Launch via Binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/YOUR_USERNAME/open-climate-tools-copernicus-qgis/HEAD?filepath=copernicus_qgis_instructions.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eugeniasarafova/openclimatedata-qgis/cfb17ddc4b0233ea7f7280df34e61f5124224736?urlpath=lab%2Ftree%2FOPENCLIMATEDATA_QGIS.ipynb)
 
 Click the badge above to open the notebook directly in your browser via Binder.
 
